@@ -13,7 +13,7 @@ Currently, I’m pursuing a qualification as a **Fachinformatiker für Daten und
 - **Favorite Projects:**  
   - Volcane recovery analysis (my own repo)  
   - Overwatch analysis app (my own repo)  
-  - [OWTV website](owtv.gg) (contributor)
+  - [OWTV website](https://owtv.gg/) (contributor)
 
 - **Domain Interests:**  
   Environmental data analysis, especially in the context of scientific research.
